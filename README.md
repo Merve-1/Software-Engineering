@@ -48,5 +48,10 @@ Each user story and task were assigned a priority level:
 Deadlines were set for each task to manage time effectively and ensure timely completion of the project phases.
 
 ## Screenshots
+![Overview](https://github.com/Merve-1/LocalEducationAuthorityProcurementAnalysis/blob/main/overview.png?raw=true)
+
+![Overview](https://github.com/Merve-1/LocalEducationAuthorityProcurementAnalysis/blob/main/overview%202.png?raw=true)
 
 ![Epics](https://github.com/Merve-1/LocalEducationAuthorityProcurementAnalysis/blob/main/epic.png?raw=true)
+
+![User Story](https://github.com/Merve-1/LocalEducationAuthorityProcurementAnalysis/blob/main/user%20story.png?raw=true)
