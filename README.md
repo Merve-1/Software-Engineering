@@ -49,4 +49,4 @@ Deadlines were set for each task to manage time effectively and ensure timely co
 
 ## Screenshots
 
-" 
+![Epics](https://github.com/Merve-1/LocalEducationAuthorityProcurementAnalysis/blob/main/epic.png?raw=true)
