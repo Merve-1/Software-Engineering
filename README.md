@@ -4,13 +4,21 @@ Welcome to the Software Engineering Reference Repository! This repository is des
 
 ## Projects
 
-### 1. **Analysis of Purchasing Activities**
-   - **Description**: This project focuses on the analysis of purchasing activities, providing insights into buying patterns, trends, and behaviors. It includes data analysis, visualization, and interpretation.
-   - **Technologies Used**: Python, Pandas, Matplotlib
+### 1. **Local Education Authority Procurement Analysis**
+   - **Description**: This project is a detailed case study on the purchasing activities of schools and colleges within the Pebbleshire County Council’s Education Department. The focus was on creating and organizing the requirements for a new web-based application using Trello. The project involved the creation of epics, user stories, assigning priorities, tasks, checklists, and setting deadlines, without any actual implementation.
+   - **Technologies Used**: Trello for project management
    - **Key Features**:
-     - Data Cleaning and Preparation
-     - Exploratory Data Analysis (EDA)
-     - Visualization of Purchasing Trends
+     - **Project Roadmap**: High-level milestones and phases
+     - **Epics**: Major themes broken down into manageable tasks
+     - **User Stories**: Captured functional requirements from the end-user perspective
+     - **Priorities and Deadlines**: Managed tasks effectively through assigned priorities and deadlines
+   - **Trello Board Structure**:
+     - **Project Roadmap**: Overview of project milestones
+     - **Backlog**: Identified tasks and user stories
+     - **Sprint Backlogs**: Organized tasks for different sprints
+     - **In Progress**: Tasks currently underway
+     - **Done**: Completed tasks and user stories
+
 
 *More projects will be added soon, including detailed examples of software testing.*
 
